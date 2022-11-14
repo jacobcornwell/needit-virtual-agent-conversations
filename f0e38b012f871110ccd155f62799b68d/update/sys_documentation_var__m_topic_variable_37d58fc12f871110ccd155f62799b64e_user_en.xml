@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="user" label="User" language="en" table="var__m_topic_variable_37d58fc12f871110ccd155f62799b64e">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>user</element>
+            <help/>
+            <hint/>
+            <label>User</label>
+            <language>en</language>
+            <name>var__m_topic_variable_37d58fc12f871110ccd155f62799b64e</name>
+            <plural>User</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>jacob.cornwell</sys_created_by>
+            <sys_created_on>2022-11-07 12:01:04</sys_created_on>
+            <sys_name>User</sys_name>
+            <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_226400_needit_vi">f0e38b012f871110ccd155f62799b68d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt Virtual Agent Conversations">f0e38b012f871110ccd155f62799b68d</sys_scope>
+            <sys_update_name>sys_documentation_var__m_topic_variable_37d58fc12f871110ccd155f62799b64e_user_en</sys_update_name>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

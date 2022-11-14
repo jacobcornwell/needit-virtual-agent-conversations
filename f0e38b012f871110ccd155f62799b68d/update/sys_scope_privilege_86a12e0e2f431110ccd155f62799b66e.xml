@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="NeedIt Virtual Agent Conversations">f0e38b012f871110ccd155f62799b68d</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>jacob.cornwell</sys_created_by>
+        <sys_created_on>2022-11-10 11:56:43</sys_created_on>
+        <sys_id>86a12e0e2f431110ccd155f62799b66e</sys_id>
+        <sys_name>VaRecordCardOutput</sys_name>
+        <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_226400_needit_vi">f0e38b012f871110ccd155f62799b68d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Virtual Agent Conversations">f0e38b012f871110ccd155f62799b68d</sys_scope>
+        <sys_update_name>sys_scope_privilege_86a12e0e2f431110ccd155f62799b66e</sys_update_name>
+        <target_name>VaRecordCardOutput</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>sys_script_include</target_type>
+    </sys_scope_privilege>
+</record_update>
